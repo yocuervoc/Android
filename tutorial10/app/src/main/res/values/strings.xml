@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tutorial10</string>
+    <string name="correo">e-mail</string>
+    <string name="guardar">guardar</string>
+</resources>

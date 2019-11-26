@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tutorial14</string>
+    <string name="id">id</string>
+    <string name="nombre">nombre</string>
+    <string name="precio">precio</string>
+    <string name="actualiar">actualizar</string>
+    <string name="crear">crear</string>
+    <string name="borrar">borrar</string>
+    <string name="buscar">buscar</string>
+</resources>

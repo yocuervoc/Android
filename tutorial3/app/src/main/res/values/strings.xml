@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tutorial3</string>
+    <string name="NUMERO">number</string>
+    <string name="result">result</string>
+    <string name="botton">Calculate</string>
+    <string name="Sumar">add</string>
+    <string name="restar">substract</string>
+</resources>

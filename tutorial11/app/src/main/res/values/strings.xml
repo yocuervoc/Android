@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tutorial11</string>
+    <string name="nombre">nombre</string>
+    <string name="datos">datos</string>
+    <string name="guardar">guardar</string>
+    <string name="buscar">buscar</string>
+</resources>

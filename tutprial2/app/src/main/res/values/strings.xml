@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tutprial2</string>
+    <string name="EstadoString">Estado</string>
+    <string name="MathString">Matematicas</string>
+    <string name="PhisycString">Fisica</string>
+    <string name="ChemistryString">Quimica</string>
+    <string name="BotonString">Calcular</string>
+</resources>
